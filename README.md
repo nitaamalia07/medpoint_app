@@ -86,5 +86,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-# medpoint_app
-8432d3f78c56363aba422e74286cff08a036bc62
+
