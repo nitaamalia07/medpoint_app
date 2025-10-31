@@ -1,15 +1,15 @@
-### [Mobile] Slicing & Integration Doctor Screen
+### 📱 [Mobile] Slicing & Integration Doctor Screen
 
 Halaman daftar dokter akan menampilkan data dokter yang diambil dari Supabase menggunakan API REST yang telah dibuat sebelumnya. Teknologi yang digunakan adalah Flutter, dengan penerapan clean architecture, state management menggunakan `flutter_bloc`, dan dependensi injection menggunakan `get_it`.
 
-## Teknologi yang Digunakan
+## ⚙️ Teknologi yang Digunakan
 - **Flutter**: Framework untuk membangun aplikasi mobile.
 - **Supabase**: Backend-as-a-Service untuk mengelola database dan autentikasi.
 - **flutter_bloc**: State management untuk aplikasi Flutter.
 - **get_it**: Dependency injection untuk pengelolaan dependensi dalam aplikasi.
 - **jam.dev**: Untuk merekam video penjelasan tugas.
 
-## Struktur Proyek
+## 🧱 Struktur Proyek
 ```
 medpoint_app/
 ├── lib/
@@ -41,7 +41,7 @@ medpoint_app/
 ├── pubspec.yaml
 ```
 
-## Langkah Implementasi
+## 🏗️ Langkah Implementasi
 
 1. **Setup Proyek**:
    - Membuat proyek Flutter dengan `flutter create medpoint_app`.
@@ -67,11 +67,11 @@ medpoint_app/
 6. **Integrasi dengan Supabase**:
    - Mengambil data dokter dari Supabase menggunakan API dan menampilkan informasi di aplikasi.
 
-## Recording
+## 🎥 Recording
 
 [Link Demo Video](https://jam.dev/c/45c73c1c-a7f1-45f7-93d9-2bb5ee474392)
 
-## Cara Menjalankan
+## ▶️ Cara Menjalankan
 1. Clone repository ini.
 2. Jalankan `flutter pub get` untuk mengunduh dependensi.
 3. Jalankan aplikasi dengan `flutter run`.
